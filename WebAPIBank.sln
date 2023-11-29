@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIBank", "WebAPIBank\WebAPIBank.csproj", "{4D514A32-85B7-4483-9C0E-0A34F9002095}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D514A32-85B7-4483-9C0E-0A34F9002095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D514A32-85B7-4483-9C0E-0A34F9002095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D514A32-85B7-4483-9C0E-0A34F9002095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D514A32-85B7-4483-9C0E-0A34F9002095}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {863A2ACC-CE04-4EA0-B166-D9D277310D5C}
+	EndGlobalSection
+EndGlobal
